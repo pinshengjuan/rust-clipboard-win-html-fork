@@ -11,6 +11,9 @@ license = "MIT OR Apache-2.0"
 homepage = "https://github.com/AceofSpades5757/clipboard-win-html"
 repository = "https://github.com/AceofSpades5757/clipboard-win-html"
 
+[dependencies]
+anyhow = "1.0.81"
+
 [dependencies.windows]
 # Windows API
 version = "0.54.0"
